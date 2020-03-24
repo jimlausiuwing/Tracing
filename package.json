@@ -14,21 +14,5 @@
   "scripts": {
     "start": "index.js",
     "test": "mocha"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.6.4",
-    "@babel/node": "^7.6.3",
-    "@babel/preset-env": "^7.6.3",
-    "@babel/runtime": "^7.6.3",
-    "babel-core": "^6.26.3",
-    "babel-preset-airbnb": "^4.1.0",
-    "eslint": "^6.5.1",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-config-prettier": "^6.4.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-prettier": "^3.1.1",
-    "eslint-plugin-react": "^7.19.0",
-    "pm2": "^4.1.2",
-    "prettier": "^1.18.2"
   }
 }
