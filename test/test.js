@@ -1,4 +1,4 @@
-const tracing = require("./tracing/client.node");
+// const tracing = require("./tracing/client.node");
 var assert = require("assert"),
   should = require("should"),
   expect = require("chai").expect;
